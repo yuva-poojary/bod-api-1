@@ -198,6 +198,6 @@ class bod extends EventEmitter {
   
 
   
-}
+};
 
 module.exports = bod;
