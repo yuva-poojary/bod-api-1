@@ -132,6 +132,7 @@ class bod extends EventEmitter {
   }
 
   /**
+  hh
    * Post Stats to Discord Bot List.
    * @param {number|number[]} serverCount The server count of your bot.
    * @param {number} [shardId] The ID of this shard.
@@ -198,6 +199,6 @@ class bod extends EventEmitter {
   
 
   
-}
+};
 
 module.exports = bod;
